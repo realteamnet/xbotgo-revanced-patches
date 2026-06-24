@@ -2,12 +2,11 @@ group = "app.revanced"
 
 patches {
     about {
-        name = "ReVanced Patches template"
-        description = "Patches template for ReVanced"
-        source = "git@github.com:revanced/revanced-patches-template.git"
-        author = "ReVanced"
-        contact = "contact@revanced.app"
-        website = "https://revanced.app"
+        name = "XbotGo tablet patches"
+        description = "Tablet (orientation + resizeable) patches for XbotGo"
+        source = "git@github.com:realteamnet/xbotgo-revanced-patches.git"
+        author = "realteamnet"
+        website = "https://github.com/realteamnet/xbotgo-revanced-patches"
         license = "GNU General Public License v3.0"
     }
 }
