@@ -1,6 +1,6 @@
 # XbotGo tablet patches
 
-![Build status](https://img.shields.io/github/actions/workflow/status/realteamnet/xbotgo-revanced-patches/release.yml)
+![Build status](https://img.shields.io/github/actions/workflow/status/realteamnet/revanced-patches/release.yml)
 ![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)
 
 A ReVanced patch bundle that adds basic tablet behavior to **XbotGo**
@@ -24,7 +24,7 @@ letterbox/scaling problem; it does not redesign the screens.
 ## 🚀 Usage
 
 Each push to `main` builds the bundle and publishes `patches-<version>.rvp` to
-[Releases](https://github.com/realteamnet/xbotgo-revanced-patches/releases) via
+[Releases](https://github.com/realteamnet/revanced-patches/releases) via
 semantic-release. Download the `.rvp` and apply it with the
 [ReVanced CLI](https://github.com/ReVanced/revanced-cli) against a clean XbotGo
 APK:

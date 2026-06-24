@@ -1,4 +1,4 @@
-rootProject.name = "xbotgo-revanced-patches"
+rootProject.name = "revanced-patches"
 
 pluginManagement {
     repositories {
