@@ -1,4 +1,4 @@
-public final class app/revanced/patches/example/ExamplePatchKt {
-	public static final fun getExamplePatch ()Lapp/revanced/patcher/patch/BytecodePatch;
+public final class app/revanced/patches/xbotgo/TabletSupportPatchKt {
+	public static final fun getTabletSupportPatch ()Lapp/revanced/patcher/patch/ResourcePatch;
 }
 
