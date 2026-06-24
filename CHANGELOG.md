@@ -1,3 +1,18 @@
+# 1.0.0 (2026-06-24)
+
+
+### Bug Fixes
+
+* Compile DEX without debugging information ([73f6506](https://github.com/realteamnet/xbotgo-revanced-patches/commit/73f6506bccc01e5622a6e19bedcf6d54d3f701c7))
+* update API dump for TabletSupportPatch ([20fe03a](https://github.com/realteamnet/xbotgo-revanced-patches/commit/20fe03a91bc1d0eed10c0f60841d08b86861061c))
+* Upload asset signature by fixing asset path glob pattern ([1378304](https://github.com/realteamnet/xbotgo-revanced-patches/commit/1378304809092e1f5a5c8fb4beb0964496222059))
+
+
+### Features
+
+* add XbotGo tablet support patch ([72ba24e](https://github.com/realteamnet/xbotgo-revanced-patches/commit/72ba24e28d835bcc3027040e3379f2a001f8d964))
+* Init ([66be625](https://github.com/realteamnet/xbotgo-revanced-patches/commit/66be625f25ee2d678dac62a5bf4daa631284f8f6))
+
 ## [1.0.4](https://github.com/ReVanced/revanced-patches-template/compare/v1.0.3...v1.0.4) (2024-11-05)
 
 ## [1.0.4-dev.2](https://github.com/ReVanced/revanced-patches-template/compare/v1.0.4-dev.1...v1.0.4-dev.2) (2024-11-05)
