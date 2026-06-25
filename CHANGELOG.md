@@ -1,3 +1,15 @@
+# [1.1.0](https://github.com/realteamnet/revanced-patches/compare/v1.0.3...v1.1.0) (2026-06-25)
+
+
+### Bug Fixes
+
+* set about.contact required by patches plugin dev.10 ([29fde51](https://github.com/realteamnet/revanced-patches/commit/29fde516e9bb2b8ef248fecadb452d74caf73a02))
+
+
+### Features
+
+* migrate to ReVanced Patcher 22 and add Change package name patch ([10a180b](https://github.com/realteamnet/revanced-patches/commit/10a180bfae92e65461b62df9be1167818913f183))
+
 ## [1.0.3](https://github.com/realteamnet/revanced-patches/compare/v1.0.2...v1.0.3) (2026-06-24)
 
 
