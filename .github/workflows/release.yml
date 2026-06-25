@@ -46,4 +46,9 @@ jobs:
       - name: Release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # app.revanced.patches plugin dev.10 adds a credentialed "githubPackages"
+          # publishing repo; feed it the workflow token so Gradle can configure
+          # (and publish) without external secrets.
+          ORG_GRADLE_PROJECT_githubPackagesUsername: ${{ github.actor }}
+          ORG_GRADLE_PROJECT_githubPackagesPassword: ${{ secrets.GITHUB_TOKEN }}
         run: npm exec semantic-release
